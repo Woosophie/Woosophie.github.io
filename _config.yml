@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "우정인"
 description              : "미래 사회 비전에 대해 공부 중"
-url                      : "http://woosophie.github.io/"
+url                      : "http://Woosophie.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Woosophie/Woosophie.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -105,7 +105,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "future educational consultant"
   location         : "대한민국. 서울"
-  email            : "21-20222@hafs.hs.kr
+  email            : "21-20222@hafs.hs.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
